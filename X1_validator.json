@@ -1,6 +1,6 @@
 {
-    "name": "Mellow", /* Name of the validator */
-    "logoUrl": "LOGO_URL", /* Validator logo (PNG|JPEG|SVG) - 100px x 100px */
-    "website": "WEBSITE_URL", /* Website URL */
+    "name": "ⓧMellow_ST", /* Name of the validator */
+    "logoUrl": "https://github.com/mellowyellow03/validator/blob/main/ST.png", /* Validator logo (PNG|JPEG|SVG) - 100px x 100px */
+    "website": "https://twitter.com/mell0wyell0w", /* Website URL */
     "contact": "https://twitter.com/mell0wyell0w" /* Contact URL */
   }
