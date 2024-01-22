@@ -1,6 +1,6 @@
 {
-    "name": "VALIDATOR_NAME", /* Name of the validator */
+    "name": "Mellow", /* Name of the validator */
     "logoUrl": "LOGO_URL", /* Validator logo (PNG|JPEG|SVG) - 100px x 100px */
     "website": "WEBSITE_URL", /* Website URL */
-    "contact": "CONTACT_URL" /* Contact URL */
+    "contact": "https://twitter.com/mell0wyell0w" /* Contact URL */
   }
